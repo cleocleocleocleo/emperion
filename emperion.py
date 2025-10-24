@@ -1,2 +1,3 @@
 import random
-print ("Welcome traveller! what might your name be?")
+
+print("Welcome traveller! what might your name be?")
