@@ -31,4 +31,3 @@ while True:
 			print ("Y or N")
 			first_invalid = False
 print("Now you should be well acquainted with the state of our nations, I feel that you will be able to get our kingdom to be the most prosperous of all time!")
-#shoutout jay thy gay
