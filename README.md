@@ -9,8 +9,8 @@ Start as a young ruler in a fractured Europe and rise to unify the continent und
 
 - Basic game introduction and greeting system  
 - Character creation (player name, initial setup)  
-- Interactive text prompts for player decisions  
-
+- Interactive text prompts for player decisions 
+- A very simple save system
 This early version focuses on the *foundation* — input handling, formatting, and presentation.
 
 ---
@@ -42,9 +42,6 @@ These are features planned for upcoming versions:
 - Upgrade leadership traits (charisma, strategy, economy)  
 - Unlock perks as your empire grows  
 
-### 💾 Saving & Loading (coming soon)
-- Save player progress to a file  
-- Load saved games to continue campaigns  
 
 ---
 
