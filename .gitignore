@@ -1,0 +1,13 @@
+# Python cache folders
+__pycache__/
+*.pyc
+
+# virtual environments
+venv/
+.env/
+
+# save files or sensitive data
+save.json
+
+# OS-specific stuff (optional)
+.DS_Store
